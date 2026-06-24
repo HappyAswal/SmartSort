@@ -119,8 +119,4 @@ Groups photos by time gap (configurable: 4h–72h). Each cluster gets:
 ### EXIF rotation
 All thumbnails and preview images are rotation-corrected server-side. Handles all 8 EXIF orientation values by baking the transform into the pixel data before serving — consistent across all browsers.
 
----
 
-## License
-
-MIT
